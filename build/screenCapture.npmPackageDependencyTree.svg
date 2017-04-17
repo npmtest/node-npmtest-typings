@@ -149,7 +149,7 @@
 <tspan x="10" y="2346">  │ │     └── is-fullwidth-code-point@1.0.0 </tspan>
 <tspan x="10" y="2362">  │ ├── is-npm@1.0.0 </tspan>
 <tspan x="10" y="2378">  │ ├─┬ latest-version@3.1.0 </tspan>
-<tspan x="10" y="2394">  │ │ └─┬ package-json@4.0.0 </tspan>
+<tspan x="10" y="2394">  │ │ └─┬ package-json@4.0.1 </tspan>
 <tspan x="10" y="2410">  │ │   ├─┬ got@6.7.1 </tspan>
 <tspan x="10" y="2426">  │ │   │ ├─┬ create-error-class@3.0.2 </tspan>
 <tspan x="10" y="2442">  │ │   │ │ └── capture-stack-trace@1.0.0 </tspan>
