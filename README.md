@@ -1,4 +1,7 @@
-# test coverage for  [typings (v2.1.1)](https://github.com/typings/typings)  [![npm package](https://img.shields.io/npm/v/npmtest-typings.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-typings) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-typings.svg)](https://travis-ci.org/npmtest/node-npmtest-typings)
+# npmtest-typings
+
+#### basic test-coverage for  [typings (v2.1.1)](https://github.com/typings/typings)  [![npm package](https://img.shields.io/npm/v/npmtest-typings.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-typings) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-typings.svg)](https://travis-ci.org/npmtest/node-npmtest-typings)
+
 #### The TypeScript Definition Manager
 
 [![NPM](https://nodei.co/npm/typings.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/typings)
